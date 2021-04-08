@@ -1,0 +1,60 @@
+Visual:
+  Margin:
+    Top: 0
+    Bottom: 0
+    Left: 0
+    Right: 0
+  Background:
+    R: 255
+    G: 255
+    B: 255
+    O: 255
+Layers:
+- Points:
+  - X: 0
+    Y: 0
+    Name: Center Building
+    Tags:
+    - Test
+  Paths:
+  - Points:
+    - X: -1
+      Y: -1
+      Name: 
+      Tags: 
+    - X: 2
+      Y: -1
+      Name: 
+      Tags: 
+    - X: 2
+      Y: -2
+      Name: 
+      Tags: 
+    - X: 3
+      Y: -2
+      Name: 
+      Tags: 
+    Name: Wall Street
+    Tags:
+    - Test
+  Shapes:
+  - Points:
+    - X: 1
+      Y: 1
+      Name: 
+      Tags: 
+    - X: 2
+      Y: 1
+      Name: 
+      Tags: 
+    - X: 2
+      Y: 2
+      Name: 
+      Tags: 
+    - X: 1
+      Y: 2
+      Name: 
+      Tags: 
+    Name: Wall
+    Tags:
+    - Test
